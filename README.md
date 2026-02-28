@@ -138,6 +138,7 @@ Python 3.8+
 
 pip package manager
 
+Live Demo : (https://imagedetail.streamlit.app/)
 Setup
 
 Clone the repository:
